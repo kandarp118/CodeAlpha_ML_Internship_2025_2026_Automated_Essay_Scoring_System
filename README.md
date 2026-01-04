@@ -11,7 +11,7 @@ My internship projects at CodeAlpha focused on Machine Learning and NLP (Student
 The objective of this task was to build a machine learning model that automatically scores essays based on four critical pillars: **Content Relevance, Grammar & Spelling, Coherence & Structure, and Vocabulary Richness**.
 
 ## 📸 Dashboard Preview
-![App Screenshot](./assets/)
+![App Screenshot](./assets/Dashboard-1.png)
 *A modern, dark-themed GUI built using CustomTkinter.*
 
 ---
