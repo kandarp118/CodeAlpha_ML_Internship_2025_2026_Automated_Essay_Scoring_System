@@ -38,6 +38,7 @@ The system processes text through a structured pipeline to ensure accurate evalu
 
 ## 📸 Dashboard Preview
 ![App Screenshot](./assets/screenshots/Dashboard-1.png)
+
 *A modern, dark-themed GUI built using CustomTkinter for an enhanced user experience.*
 
 ---
