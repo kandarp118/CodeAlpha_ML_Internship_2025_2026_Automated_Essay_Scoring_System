@@ -1,17 +1,17 @@
 # CodeAlpha_Machine_Learning_Internship
-[cite_start]My internship projects at CodeAlpha focused on Machine Learning and NLP (Student ID: CA/SE3/4912)[cite: 7].
+My internship projects at CodeAlpha focused on Machine Learning and NLP (Student ID: CA/SE3/4912).
 
 # 📝 Write-Right AI: Automated Essay Scoring System
 
-[cite_start]A Machine Learning project developed during my internship at **CodeAlpha** (Student ID: CA/SE3/4912). This system utilizes Natural Language Processing (NLP) to provide instant, objective feedback and scoring for academic writing.
+A Machine Learning project developed during my internship at **CodeAlpha** (Student ID: CA/SE3/4912). This system utilizes Natural Language Processing (NLP) to provide instant, objective feedback and scoring for academic writing.
 
 ---
 
 ## 🎓 Internship Details
-* [cite_start]**Organization:** CodeAlpha [cite: 6, 17]
-* [cite_start]**Role:** Machine Learning Intern [cite: 8]
-* [cite_start]**Student ID:** CA/SE3/4912 [cite: 7]
-* [cite_start]**Duration:** 5th October 2025 – 5th January 2026 [cite: 8]
+* **Organization:** CodeAlpha
+* **Role:** Machine Learning Intern
+* **Student ID:** CA/SE3/4912
+* **Duration:** 5th October 2025 – 5th January 2026
 * **Status:** Completed ✅
 
 ---
@@ -26,6 +26,7 @@ The goal of this task was to build a machine learning model to automatically sco
 ---
 
 ## 🔍 NLP Pipeline & Workflow
+
 
 
 The system processes text through a structured pipeline to ensure accurate evaluation:
