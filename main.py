@@ -9,6 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- AUTOMATIC DATA DOWNLOADER ---
+
 # This section ensures all required NLP resources are installed on your PC
 def setup_nltk():
     resources = ['punkt', 'stopwords', 'punkt_tab', 'averaged_perceptron_tagger']
