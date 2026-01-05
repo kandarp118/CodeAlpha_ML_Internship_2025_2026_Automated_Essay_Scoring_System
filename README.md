@@ -55,4 +55,4 @@ The system processes text through a structured pipeline to ensure accurate evalu
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_Machine_Learning_Internship.git](https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_Machine_Learning_Internship.git)
+   git clone [https://github.com/kandarp118/CodeAlpha_ML_Internship_2025_2026_Automated_Essay_Scoring_System.git](https://github.com/kandarp118/CodeAlpha_ML_Internship_2025_2026_Automated_Essay_Scoring_System.git)
